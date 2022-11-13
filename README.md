@@ -1,0 +1,1 @@
+# Organizacoes_Estruturas_Projeto_Banco_de_Dados

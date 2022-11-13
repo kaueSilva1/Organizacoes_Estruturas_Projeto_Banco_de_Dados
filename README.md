@@ -1,1 +1,1 @@
-# Organizacoes_Estruturas_Projeto_Banco_de_Dados
+Este repositório, é apenas atividades de Banco de Dados, MySQL
